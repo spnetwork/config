@@ -10,7 +10,7 @@
 	"horizon_ext_api":"http://node1.saipanchain.io:8001",
 	"doc_url":"",
 	
-    "SPNC": {
+    "spnc": {
 	
       "test.saipanchain.io": {
         "name": "Test CNBuy XCN to Donate",
